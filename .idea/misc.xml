@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vlad/Documents/AndroidStudioProjects/WallpaperCatalog/app/src/main/res/layout/activity_main.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/Vlad/Documents/AndroidStudioProjects/WallpaperCatalog/app/src/main/res/layout/fragment_image_preview.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/Vlad/Documents/AndroidStudioProjects/WallpaperCatalog/app/src/main/res/layout/fragment_main_grid.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/Vlad/Documents/AndroidStudioProjects/WallpaperCatalog/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
         <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1915" />
         <entry key="app/src/main/res/drawable/rounded_button.xml" value="0.1905" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />

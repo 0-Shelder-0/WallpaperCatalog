@@ -1,8 +1,8 @@
 package com.example.wallpapercatalog.domain.repository
 
-import com.example.wallpapercatalog.domain.room.ServiceDao
 import com.example.wallpapercatalog.domain.data.ThemeContentsDbEntity
 import com.example.wallpapercatalog.domain.data.WallpaperThemeDbEntity
+import com.example.wallpapercatalog.domain.room.ServiceDao
 import javax.inject.Inject
 
 class CacheRepositoryImpl @Inject constructor(

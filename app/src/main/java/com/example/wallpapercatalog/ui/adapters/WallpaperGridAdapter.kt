@@ -11,8 +11,6 @@ import com.example.wallpapercatalog.R
 import com.example.wallpapercatalog.databinding.GridItemBinding
 import com.example.wallpapercatalog.di.appComponent
 import com.example.wallpapercatalog.ui.model.GridItem
-import com.squareup.picasso.Callback
-import com.squareup.picasso.NetworkPolicy
 import com.squareup.picasso.Picasso
 import javax.inject.Inject
 
